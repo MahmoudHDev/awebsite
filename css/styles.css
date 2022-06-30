@@ -1,0 +1,27 @@
+/* div is an abbrevision for content division elements */
+/* tag selectors */
+body{
+margin:  0 auto;
+text-align: center;
+}
+
+h1 {
+width: 20%
+margin: 0 auto 0 auto;
+position: relative;
+
+}
+/******** class Selectors ********/
+.topBox {
+  padding-top: 100px;
+  margin-top: 0 auto;
+  position: relative;
+  background-color: #F0EBE3;
+}
+.topCloud{
+position: relative;
+}
+
+.bottomCloud {
+position: absolute;
+}
